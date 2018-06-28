@@ -34,7 +34,6 @@ public class TopicService {
 				return;
 			}
 		}
-		
 	}
 
 	public void deleteTopic(String id) {
